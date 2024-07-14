@@ -3,8 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>My Profile</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: "ＭＳ Ｐゴシック"; 
+            font-weight: bold;
+            font-size: medium;
+        }
+        body{
+            max-width: 400px;
+            max-height: 200px;
+            background: url("/workspaces/Eel-Aig-gYuh/image/wallpaper.gif") no-repeat;
+        }
+        .banner{
+            padding: 20px;
+        }
+        .banner, a, img {
+            margin-top: 200px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
