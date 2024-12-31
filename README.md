@@ -26,7 +26,7 @@ _Hello there, I am **Le Gia Huy**. Majoring in **Computer Science**, passionate 
             <b>Currently learning</b>
          </td>
     `    <td align='center' width="60">
-            <img src="https://i.pinimg.com/564x/01/df/95/01df95b743a4c19efa58805f2db15474.jpg">
+            <img src="https://i.pinimg.com/564x/01/df/95/01df95b743a4c19efa58805f2db15474.jpg" href="https://ou.edu.vn/">
         </td>
     </tr>
 </table>
