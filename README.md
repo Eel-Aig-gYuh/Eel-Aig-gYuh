@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Eel-Aig-gYuh/github-transparent/blob/main/overview.svg"  width="400">
 
-_Hello there this is **Le Gia Huy**. Majoring in **Computer Science**, passionate about the field of **Artificial Intelligence** and **Game Developer**. Happy, sociable, diligent, used to work as a team leader for a number of small projects during the learning process. Looking forward an **intern position**.
+_Hello there, I am **Le Gia Huy**. Majoring in **Computer Science**, passionate about the field of **Artificial Intelligence** and **Game Developer**. Happy, sociable, diligent, used to work as a team leader for a number of small projects during the learning process. Looking forward an **intern position**.
 <h3 align='center'><b>Social Media</b></h3>
 <p align='center'>
  
